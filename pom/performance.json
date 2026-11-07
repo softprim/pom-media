@@ -1,0 +1,336 @@
+[
+  {
+    "id": "ep001_the_loop",
+    "published": "2026-11-02T01:00",
+    "duration": 17.0,
+    "meta": {
+      "topic": "habits",
+      "format": "montage",
+      "hook": "pain",
+      "cta": "comment_word",
+      "season": "none",
+      "experiment": "none"
+    },
+    "platform_ids": {
+      "youtube_title": "Same Day, Different Date 🔁 (you're stuck in the loop) #shorts"
+    },
+    "posted_utc": {
+      "instagram": "2026-11-01T23:08",
+      "tiktok": "2026-11-02T01:30",
+      "youtube": "2026-11-02T01:00"
+    },
+    "instagram": {
+      "reach": 1582,
+      "views": 2064,
+      "likes": 71,
+      "comments": 0,
+      "shares": 2,
+      "saved": 2,
+      "retention": 57.0,
+      "reelsViewRate": 61.0,
+      "avgWatchTime": 9.693,
+      "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+      "pulled": "2026-11-07"
+    },
+    "tiktok": {
+      "duration": 17,
+      "views": 1,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "reach": null,
+      "fullVideoWatchedRate": null,
+      "avgTimeWatched": null,
+      "forYou": null,
+      "pulled": "2026-11-07",
+      "note": "Metricool reports 0 views; check post visibility in TikTok app"
+    },
+    "youtube": {
+      "views": 1169,
+      "averageViewDuration": 8,
+      "likes": 25,
+      "comments": 0,
+      "shares": 0,
+      "pulled": "2026-11-07"
+    }
+  },
+  {
+    "id": "ep002_60_days_left",
+    "published": "2026-11-02T19:00",
+    "duration": 20.7,
+    "meta": {
+      "topic": "habits",
+      "format": "split",
+      "hook": "date",
+      "cta": "comment_word",
+      "season": "new year",
+      "experiment": "none"
+    },
+    "platform_ids": {
+      "youtube_title": "60 Days Left in 2026 — Don't Wait for January 🗓️ #shorts"
+    },
+    "removed": "2026-11-02",
+    "removed_reason": "deleted by Paul: audio bug (cinematic pad vibrato) + low bitrate; exclude from medians"
+  },
+  {
+    "id": "ep003_dark_at_5pm",
+    "published": "2026-11-03T18:00",
+    "duration": 21.9,
+    "meta": {
+      "topic": "habits",
+      "format": "split",
+      "hook": "pain",
+      "cta": "comment_word",
+      "season": "winter",
+      "experiment": "none"
+    },
+    "platform_ids": {
+      "youtube_title": "It's Dark at 5 PM — Don't Let Winter Steal Your Evenings #shorts"
+    },
+    "posted_utc": {
+      "instagram": "2026-11-03T16:08",
+      "tiktok": "2026-11-03T16:18",
+      "youtube": "2026-11-03T14:03"
+    },
+    "instagram": {
+      "reach": 783,
+      "views": 892,
+      "likes": 32,
+      "comments": 0,
+      "shares": 1,
+      "saved": 2,
+      "retention": 37.7,
+      "reelsViewRate": 57.8,
+      "avgWatchTime": 8.26,
+      "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+      "pulled": "2026-11-07"
+    },
+    "tiktok": {
+      "duration": 22,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "reach": null,
+      "fullVideoWatchedRate": null,
+      "avgTimeWatched": null,
+      "forYou": null,
+      "pulled": "2026-11-07",
+      "note": "Metricool reports 0 views; check post visibility in TikTok app"
+    },
+    "youtube": {
+      "views": 1149,
+      "averageViewDuration": 8,
+      "likes": 17,
+      "comments": 1,
+      "shares": 0,
+      "pulled": "2026-11-07"
+    }
+  },
+  {
+    "id": "ep004_black_friday",
+    "published": "2026-11-04T16:00",
+    "duration": 18.8,
+    "meta": {
+      "topic": "money",
+      "format": "split",
+      "hook": "number",
+      "cta": "ab_choice",
+      "season": "black friday",
+      "experiment": "E1"
+    },
+    "platform_ids": {
+      "youtube_title": "Black Friday: You Didn't Save 50% — You Spent 50% #shorts"
+    },
+    "posted_utc": {
+      "instagram": "2026-11-04T16:08",
+      "tiktok": "2026-11-04T16:07"
+    },
+    "instagram": {
+      "reach": 125,
+      "views": 139,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "retention": 28.7,
+      "reelsViewRate": 31.4,
+      "avgWatchTime": 5.398,
+      "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+      "pulled": "2026-11-07"
+    },
+    "tiktok": {
+      "duration": 18,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "reach": null,
+      "fullVideoWatchedRate": null,
+      "avgTimeWatched": null,
+      "forYou": null,
+      "pulled": "2026-11-07",
+      "note": "Metricool reports 0 views; check post visibility in TikTok app"
+    },
+    "youtube_note": "not yet in Metricool 'videos published in range' on 2026-11-07 (YouTube data lag?)"
+  },
+  {
+    "id": "story001_voyager_light_day",
+    "published": "2026-11-05T18:00",
+    "duration": 52.2,
+    "meta": {
+      "topic": "science",
+      "format": "story_true",
+      "hook": "date",
+      "cta": "comment_word",
+      "season": "voyager light-day nov 18",
+      "experiment": "none"
+    },
+    "platform_ids": {
+      "youtube_title": "On Nov 18, Voyager 1 Becomes One Light-Day Away 🛰️ #shorts"
+    },
+    "posted_utc": {
+      "instagram": "2026-11-05T16:08",
+      "tiktok": "2026-11-05T16:04"
+    },
+    "instagram": {
+      "reach": 111,
+      "views": 129,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "retention": 13.2,
+      "reelsViewRate": 32.2,
+      "avgWatchTime": 6.893,
+      "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+      "pulled": "2026-11-07"
+    },
+    "tiktok": {
+      "duration": 52,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "reach": null,
+      "fullVideoWatchedRate": null,
+      "avgTimeWatched": null,
+      "forYou": null,
+      "pulled": "2026-11-07",
+      "note": "Metricool reports 0 views; check post visibility in TikTok app"
+    },
+    "youtube_note": "not yet in Metricool on 2026-11-07"
+  },
+  {
+    "id": "ep005_winter_arc_monday",
+    "published": "2026-11-06T16:00",
+    "duration": 18.9,
+    "meta": {
+      "topic": "habits",
+      "format": "split",
+      "hook": "pain",
+      "cta": "comment_word",
+      "season": "winter arc",
+      "experiment": "E1"
+    },
+    "platform_ids": {
+      "youtube_title": "Winter Arc: \"Starting Monday\" vs Starting Today #shorts"
+    },
+    "posted_utc": {
+      "instagram": "2026-11-06T16:05",
+      "tiktok": "2026-11-06T16:05"
+    },
+    "instagram": {
+      "reach": 1026,
+      "views": 1187,
+      "likes": 7,
+      "comments": 0,
+      "shares": 1,
+      "saved": 2,
+      "retention": 31.7,
+      "reelsViewRate": 50.0,
+      "avgWatchTime": 5.986,
+      "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+      "pulled": "2026-11-07"
+    },
+    "tiktok": {
+      "duration": 18,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "reach": null,
+      "fullVideoWatchedRate": null,
+      "avgTimeWatched": null,
+      "forYou": null,
+      "pulled": "2026-11-07",
+      "note": "Metricool reports 0 views; check post visibility in TikTok app"
+    },
+    "youtube_note": "not yet in Metricool on 2026-11-07"
+  },
+  {
+    "id": "story002_roanoke",
+    "published": "2026-11-07T19:00",
+    "duration": 59.1,
+    "meta": {
+      "topic": "history",
+      "format": "story_unsolved",
+      "hook": "number",
+      "cta": "ab_choice",
+      "season": "none",
+      "experiment": "none"
+    },
+    "platform_ids": {
+      "youtube_title": "115 People Vanished in 1590 — Nobody Knows Why (The Lost Colony) #shorts"
+    }
+  },
+  {
+    "id": "ep006_quick_scroll_45_days",
+    "published": "2026-11-07T10:00",
+    "duration": 11.4,
+    "meta": {
+      "topic": "habits",
+      "format": "quick",
+      "hook": "number",
+      "cta": "comment_word",
+      "season": "none",
+      "experiment": "E_quick"
+    },
+    "platform_ids": {},
+    "platforms": [
+      "tiktok"
+    ]
+  },
+  {
+    "id": "ep007_singles_day_24h_rule",
+    "published": "2026-11-08T16:00",
+    "duration": 17.5,
+    "meta": {
+      "topic": "money",
+      "format": "montage",
+      "hook": "number",
+      "cta": "comment_word",
+      "season": "singles day 11.11",
+      "experiment": "E3"
+    },
+    "platform_ids": {
+      "youtube_title": "11.11 Singles' Day Sale: The 24-Hour Rule That Saves You Money #shorts"
+    }
+  },
+  {
+    "id": "ep008_glow_up_boring_middle",
+    "published": "2026-11-09T16:00",
+    "duration": 17.7,
+    "meta": {
+      "topic": "habits",
+      "format": "montage",
+      "hook": "contrarian",
+      "cta": "comment_word",
+      "season": "none",
+      "experiment": "E3"
+    },
+    "platform_ids": {
+      "youtube_title": "Glow-Up Day 1 vs Day 60: Nobody Posts Days 2 to 59 #shorts"
+    }
+  }
+]
