@@ -1,0 +1,170 @@
+{
+ "id": "series001_312_messages_ep1",
+ "title": "The 3:12 Messages — Part 1",
+ "signature": "@pomschoices",
+ "music": "suspense",
+ "music_file": "music.mp3",
+ "music_gain": 0.45,
+ "voice_fx": "none",
+ "cover_time": 1.2,
+ "ambient": "dust",
+ "hook": {
+  "lines": [
+   "3:12 AM.",
+   "1 NEW MESSAGE"
+  ],
+  "until": 2.4
+ },
+ "segments": [
+  {
+   "frame": "f01.png",
+   "voice_file": "v01.mp3",
+   "move": "push_face",
+   "ambient": "dust",
+   "pause": 0.3,
+   "say": "At three twelve A.M.... your phone buzzes. Unknown number... one message.",
+   "caption_text": "At 3:12 AM... your phone buzzes. Unknown number... one message."
+  },
+  {
+   "frame": "f02.png",
+   "voice_file": "v02.mp3",
+   "move": "zoom_in",
+   "hud": {
+    "days": 30,
+    "savings": 340
+   },
+   "pause": 0.4,
+   "say": "In thirty days, you lose your job. Do exactly what I say... and tell no one.",
+   "caption_text": "\"In 30 days, you lose your job. Do exactly what I say... and tell no one.\""
+  },
+  {
+   "frame": "f03.png",
+   "voice_file": "v03.mp3",
+   "move": "zoom_in",
+   "hud": {
+    "days": 30,
+    "savings": 340
+   },
+   "pause": 0.4,
+   "say": "You think it's spam. Then a second text: your password is on a yellow sticky note... under your keyboard. You check. It is. You don't sleep again that night.",
+   "caption_text": "You think it's spam. Then a second text: \"Your password is on a yellow sticky note... under your keyboard.\" You check. It is. You don't sleep again that night."
+  },
+  {
+   "frame": "f04.png",
+   "voice_file": "v04.mp3",
+   "move": "pan_left",
+   "hud": {
+    "days": 29,
+    "savings": 452,
+    "savings_from": 340
+   },
+   "stamp": "+$112 / MONTH",
+   "stamp_y": 580,
+   "pause": 0.35,
+   "say": "Day twenty-nine. Cancel your subscriptions. All seven. You thought you had three. A hundred and twelve dollars a month... gone.",
+   "caption_text": "Day 29. \"Cancel your subscriptions. All 7.\" You thought you had 3. $112 a month... gone."
+  },
+  {
+   "frame": "f05.png",
+   "voice_file": "v05.mp3",
+   "move": "zoom_in",
+   "hud": {
+    "days": 26,
+    "savings": 452
+   },
+   "pause": 0.35,
+   "say": "Day twenty-six. Open the folder called \"someday.\" Inside... the business plan you wrote three years ago. And never started.",
+   "caption_text": "Day 26. \"Open the folder called 'someday'.\" Inside... the business plan you wrote 3 years ago. And never started."
+  },
+  {
+   "frame": "f05.png",
+   "voice_file": "v06.mp3",
+   "move": "zoom_in",
+   "hud": {
+    "days": 25,
+    "savings": 452
+   },
+   "pause": 0.35,
+   "say": "Day twenty-five. Start it. Tonight. One hour, every night. You almost laugh... then you open the laptop.",
+   "caption_text": "Day 25. \"Start it. Tonight. 1 hour, every night.\" You almost laugh... then you open the laptop."
+  },
+  {
+   "frame": "f06.png",
+   "voice_file": "v07.mp3",
+   "move": "zoom_in",
+   "hud": {
+    "days": 20,
+    "savings": 1140,
+    "savings_from": 452
+   },
+   "stamp": "DAY 22 · FIRST CUSTOMER",
+   "stamp_y": 580,
+   "pause": 0.4,
+   "say": "Night after night. One hour. On day twenty-two, your first customer pays. Then another. For the first time in years... you feel ahead.",
+   "caption_text": "Night after night. 1 hour. On day 22, your first customer pays. Then another. For the first time in years... you feel ahead."
+  },
+  {
+   "frame": "f07.png",
+   "voice_file": "v08.mp3",
+   "move": "push_face",
+   "hud": {
+    "days": 19,
+    "savings": 1140
+   },
+   "pause": 0.5,
+   "say": "Day nineteen. Three twelve A.M. Your boss will call you in on Friday. Whatever he offers you... say no.",
+   "caption_text": "Day 19. 3:12 AM. \"Your boss will call you in on Friday. Whatever he offers you... say NO.\""
+  },
+  {
+   "frame": "f08.png",
+   "voice_file": "v09.mp3",
+   "move": "zoom_in",
+   "fx": "hit",
+   "hud": {
+    "days": 19,
+    "savings": 1140
+   },
+   "pause": 0.5,
+   "say": "Then... one more message. Don't ask who I am. You already know.",
+   "caption_text": "Then... one more message. \"Don't ask who I am. You already know.\""
+  },
+  {
+   "frame": "f01.png",
+   "voice_file": "v10.mp3",
+   "move": "zoom_out",
+   "question": {
+    "lines": [
+     "Who is texting you?",
+     "PART 2 TOMORROW"
+    ],
+    "options": [
+     "FUTURE YOU",
+     "YOUR BOSS",
+     "SOMEONE ELSE"
+    ]
+   },
+   "say": "So... who's texting you? Tell me in the comments. Part two... tomorrow.",
+   "caption_text": "So... who's texting you? Tell me in the comments. Part 2... tomorrow.",
+   "cut": true
+  }
+ ],
+ "captions": {
+  "youtube": {
+   "title": "At 3:12 AM a Stranger Texts: \"In 30 Days You Lose Your Job\" (Part 1) #shorts",
+   "description": "At 3:12 AM an unknown number texts you: in 30 days you lose your job. Do exactly what I say. Tell no one.\nCancel the subscriptions. Open the folder called \"someday\". Start it tonight.\n\nWho's sending the messages? Comment your guess 👇 Part 2 tomorrow.\n\n#shorts #storytime #money #sidehustle #animation"
+  },
+  "tiktok": "At 3:12 AM a stranger texts: 'In 30 days you lose your job.' 📱 Who's sending the messages? Part 2 tomorrow #storytime #animation #stickman #money #sidehustle",
+  "instagram": "At 3:12 AM, an unknown number texts you. 📱\n\n\"In 30 days, you lose your job. Do exactly what I say. Tell no one.\"\n\nDay 29: cancel the subscriptions.\nDay 26: open the folder called \"someday\".\nDay 19: \"Whatever your boss offers on Friday... say NO.\"\n\nWho's texting you? 👇 Part 2 tomorrow.\n\n📩 Send this to the friend with a \"someday\" folder.\n\n#storytime #animation #money #sidehustle #stickman"
+ },
+ "meta": {
+  "topic": "money",
+  "format": "series_story",
+  "hook": "pov",
+  "cta": "comment_word",
+  "season": "none",
+  "experiment": "E_series",
+  "voice": "el:michael_vincent",
+  "music": "library:mystery_suspense_strings_01",
+  "inspired_by": "@mr.survival4 format (2nd-person countdown story with on-screen trackers) — original story"
+ }
+}
