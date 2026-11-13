@@ -9,3 +9,4 @@ Reused by the daily tasks to save credits. Add a new track when a task generates
 | mystery_lost_plane_cello_02.mp3 | Mystery Frames | dark suspense for sea/air stories: low cello drone, muted brass swells, sparse piano in D minor, sub-bass pulse, unresolved hit | 50 s |
 | pom_playful_pizzicato_133bpm_02.mp3 | Pom | playful pizzicato strings, bouncy funk bass, light claps, cheeky whistle-like lead, confident/sassy, ~133 BPM (used in ep013) | 40 s |
 | pom_curious_synthpop_112bpm_03.mp3 | Pom | curious, slightly mischievous retro synth-pop: plucky arpeggios, bouncy bass, finger snaps, soft glockenspiel hook, ~112 BPM (used in ep015) | 40 s |
+| mystery_tv_static_synth_03.mp3 | Mystery Frames | dark retro suspense for TV/tech/signal stories: cold analog synth drone, slow pulsing arpeggio in E minor, detuned VHS-style pads, radio static, ticking hi-hat, sub-bass pulse, unresolved hit (used in film013) | 50 s |
