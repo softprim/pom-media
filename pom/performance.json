@@ -1,0 +1,749 @@
+[
+ {
+  "id": "ep001_the_loop",
+  "published": "2026-11-02T01:00",
+  "duration": 17.0,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "Same Day, Different Date 🔁 (you're stuck in the loop) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-01T23:08",
+   "tiktok": "2026-11-02T01:30",
+   "youtube": "2026-11-02T01:00"
+  },
+  "instagram": {
+   "reach": 1582,
+   "views": 2066,
+   "likes": 71,
+   "comments": 0,
+   "shares": 2,
+   "saved": 2,
+   "retention": 57.0,
+   "reelsViewRate": 61.0,
+   "avgWatchTime": 9.698,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 17,
+   "likes": 1,
+   "comments": 1,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 1172,
+   "averageViewDuration": 8,
+   "likes": 25,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "ep002_60_days_left",
+  "published": "2026-11-02T19:00",
+  "duration": 20.7,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "date",
+   "cta": "comment_word",
+   "season": "new year",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "60 Days Left in 2026 — Don't Wait for January 🗓️ #shorts"
+  },
+  "removed": "2026-11-02",
+  "removed_reason": "deleted by Paul: audio bug (cinematic pad vibrato) + low bitrate; exclude from medians"
+ },
+ {
+  "id": "ep003_dark_at_5pm",
+  "published": "2026-11-03T18:00",
+  "duration": 21.9,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "It's Dark at 5 PM — Don't Let Winter Steal Your Evenings #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-03T16:08",
+   "tiktok": "2026-11-03T16:18",
+   "youtube": "2026-11-03T14:03"
+  },
+  "instagram": {
+   "reach": 783,
+   "views": 893,
+   "likes": 32,
+   "comments": 0,
+   "shares": 1,
+   "saved": 2,
+   "retention": 37.8,
+   "reelsViewRate": 57.9,
+   "avgWatchTime": 8.277,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 22,
+   "views": 22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 1288,
+   "averageViewDuration": 8,
+   "likes": 19,
+   "comments": 1,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "ep004_black_friday",
+  "published": "2026-11-04T16:00",
+  "duration": 18.8,
+  "meta": {
+   "topic": "money",
+   "format": "split",
+   "hook": "number",
+   "cta": "ab_choice",
+   "season": "black friday",
+   "experiment": "E1"
+  },
+  "platform_ids": {
+   "youtube_title": "Black Friday: You Didn't Save 50% — You Spent 50% #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-04T16:08",
+   "tiktok": "2026-11-04T16:07",
+   "youtube": "2026-11-04T14:04"
+  },
+  "instagram": {
+   "reach": 126,
+   "views": 141,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 29.3,
+   "reelsViewRate": 32.0,
+   "avgWatchTime": 5.517,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 18,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 498,
+   "averageViewDuration": 5,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "story001_voyager_light_day",
+  "published": "2026-11-05T18:00",
+  "duration": 52.2,
+  "meta": {
+   "topic": "science",
+   "format": "story_true",
+   "hook": "date",
+   "cta": "comment_word",
+   "season": "voyager light-day nov 18",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "On Nov 18, Voyager 1 Becomes One Light-Day Away 🛰️ #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-05T16:08",
+   "tiktok": "2026-11-05T16:04",
+   "youtube": "2026-11-05T14:03"
+  },
+  "instagram": {
+   "reach": 112,
+   "views": 131,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "retention": 14.2,
+   "reelsViewRate": 32.8,
+   "avgWatchTime": 7.417,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 52,
+   "views": 52,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 206,
+   "averageViewDuration": 12,
+   "likes": 10,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "ep005_winter_arc_monday",
+  "published": "2026-11-06T16:00",
+  "duration": 18.9,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter arc",
+   "experiment": "E1"
+  },
+  "platform_ids": {
+   "youtube_title": "Winter Arc: \"Starting Monday\" vs Starting Today #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-06T16:05",
+   "tiktok": "2026-11-06T16:05",
+   "youtube": "2026-11-06T14:04"
+  },
+  "instagram": {
+   "reach": 1036,
+   "views": 1197,
+   "likes": 7,
+   "comments": 0,
+   "shares": 1,
+   "saved": 2,
+   "retention": 31.5,
+   "reelsViewRate": 49.7,
+   "avgWatchTime": 5.957,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 18,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 801,
+   "averageViewDuration": 5,
+   "likes": 17,
+   "comments": 1,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "story002_roanoke",
+  "published": "2026-11-07T19:00",
+  "duration": 59.1,
+  "meta": {
+   "topic": "history",
+   "format": "story_unsolved",
+   "hook": "number",
+   "cta": "ab_choice",
+   "season": "none",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "115 People Vanished in 1590 — Nobody Knows Why (The Lost Colony) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-07T16:06",
+   "tiktok": "2026-11-07T16:03",
+   "youtube": "2026-11-07T14:03"
+  },
+  "instagram": {
+   "reach": 8,
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 31.0,
+   "reelsViewRate": 37.5,
+   "avgWatchTime": 18.336,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 59,
+   "views": 59,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 159,
+   "averageViewDuration": 14,
+   "likes": 9,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  },
+  "note": "IG reach 8 — Instagram barely distributed it (archival photos; possibly treated as non-original)"
+ },
+ {
+  "id": "ep006_quick_scroll_45_days",
+  "published": "2026-11-07T10:00",
+  "duration": 11.4,
+  "meta": {
+   "topic": "habits",
+   "format": "quick",
+   "hook": "number",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E_quick"
+  },
+  "platform_ids": {},
+  "platforms": [
+   "tiktok"
+  ],
+  "posted_utc": {
+   "tiktok": "2026-11-07T08:02"
+  },
+  "tiktok": {
+   "duration": 11,
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  }
+ },
+ {
+  "id": "ep007_singles_day_24h_rule",
+  "published": "2026-11-08T16:00",
+  "duration": 17.5,
+  "meta": {
+   "topic": "money",
+   "format": "montage",
+   "hook": "number",
+   "cta": "comment_word",
+   "season": "singles day 11.11",
+   "experiment": "E3"
+  },
+  "platform_ids": {
+   "youtube_title": "11.11 Singles' Day Sale: The 24-Hour Rule That Saves You Money #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-08T16:04",
+   "tiktok": "2026-11-08T16:03",
+   "youtube": "2026-11-08T14:03"
+  },
+  "instagram": {
+   "reach": 1117,
+   "views": 1408,
+   "likes": 5,
+   "comments": 1,
+   "shares": 2,
+   "saved": 1,
+   "retention": 48.8,
+   "reelsViewRate": 62.2,
+   "avgWatchTime": 8.533,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 803,
+   "averageViewDuration": 4,
+   "likes": 7,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "ep008_glow_up_boring_middle",
+  "published": "2026-11-09T16:00",
+  "duration": 17.7,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "contrarian",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E3"
+  },
+  "platform_ids": {
+   "youtube_title": "Glow-Up Day 1 vs Day 60: Nobody Posts Days 2 to 59 #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-09T16:08",
+   "tiktok": "2026-11-09T16:05",
+   "youtube": "2026-11-09T14:03"
+  },
+  "instagram": {
+   "reach": 1242,
+   "views": 1617,
+   "likes": 24,
+   "comments": 0,
+   "shares": 0,
+   "saved": 4,
+   "retention": 51.1,
+   "reelsViewRate": 67.2,
+   "avgWatchTime": 9.05,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 1205,
+   "averageViewDuration": 7,
+   "likes": 18,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  }
+ },
+ {
+  "id": "ep009_11pm_me_time",
+  "published": "2026-11-10T16:00",
+  "duration": 19.5,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "E4"
+  },
+  "platform_ids": {
+   "youtube_title": "Revenge Bedtime Procrastination: It's 11 PM, Finally Me Time #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-10T16:05",
+   "tiktok": "2026-11-10T16:05",
+   "youtube": "2026-11-10T14:03"
+  },
+  "instagram": {
+   "reach": 1268,
+   "views": 1509,
+   "likes": 40,
+   "comments": 0,
+   "shares": 4,
+   "saved": 3,
+   "retention": 40.9,
+   "reelsViewRate": 55.5,
+   "avgWatchTime": 7.974,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 20,
+   "views": 19,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube": {
+   "views": 1069,
+   "averageViewDuration": 7,
+   "likes": 23,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-14"
+  },
+  "note": "E4 variant A (main post). Hook: \"It's 11 PM.\" + \"Finally me time.\""
+ },
+ {
+  "id": "ep009b_11pm_me_time_trial",
+  "published": "2026-11-11T10:00",
+  "duration": 19.5,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "E4"
+  },
+  "platform_ids": {},
+  "platforms": [
+   "instagram"
+  ],
+  "removed": "2026-11-11",
+  "removed_reason": "never published: Metricool ERROR 'account does not meet the trial reel follower requirement'",
+  "note": "E4 variant B: Instagram TRIAL_REEL, opener \"It's 1:40 AM. Again.\" — failed to publish."
+ },
+ {
+  "id": "ep010_smart_people_stuck",
+  "published": "2026-11-11T16:00",
+  "duration": 17.7,
+  "meta": {
+   "topic": "mindset",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E2"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Smart People Stay Stuck (Planning vs Starting) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-11T16:05",
+   "tiktok": "2026-11-11T16:05"
+  },
+  "instagram": {
+   "reach": 155,
+   "views": 163,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 2,
+   "retention": 28.9,
+   "reelsViewRate": 44.2,
+   "avgWatchTime": 5.116,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 17,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube_note": "not yet in Metricool 'videos published in range' on 2026-11-14",
+  "note": "E2 under-20 s data point (17.7 s). Topic from competitor paradox title (Psych2Go 'Smart People Can't Find Love' 144K)."
+ },
+ {
+  "id": "ep011_mariah_is_back",
+  "published": "2026-11-12T16:00",
+  "duration": 21.0,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "christmas music season",
+   "experiment": "E2"
+  },
+  "platform_ids": {
+   "youtube_title": "Mariah Is Back, Your Goals Aren't: Break the \"Next Year\" Loop #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-12T16:09",
+   "tiktok": "2026-11-12T16:08"
+  },
+  "instagram": {
+   "reach": 137,
+   "views": 154,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "retention": 19.6,
+   "reelsViewRate": 26.1,
+   "avgWatchTime": 4.106,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 21,
+   "views": 21,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube_note": "not yet in Metricool on 2026-11-14",
+  "note": "E2 longer arm (21.0 s) vs ep010 17.7 s. Dated: Christmas-music season (Mariah 5.8M Reels). Lofi 150 BPM."
+ },
+ {
+  "id": "ep013_cant_say_no",
+  "published": "2026-11-13T16:00",
+  "duration": 42.3,
+  "meta": {
+   "topic": "relationships",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "world kindness day nov 13",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Nice People Can't Say No (People-Pleasing Explained) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-13T16:06",
+   "tiktok": "2026-11-13T16:04"
+  },
+  "instagram": {
+   "reach": 116,
+   "views": 124,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 14.0,
+   "reelsViewRate": 52.2,
+   "avgWatchTime": 5.929,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-14"
+  },
+  "tiktok": {
+   "duration": 42,
+   "views": 42,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-14",
+   "note": "Metricool returns views/likes only; watch-time fields null"
+  },
+  "youtube_note": "not yet in Metricool on 2026-11-14 (< 24 h)",
+  "note": "First scheduled story-first narrated episode (ElevenLabs James, eleven_v4). Music: new ElevenLabs track music/pom_playful_pizzicato_133bpm_02.mp3. Metricool post ids: YT 423275595, TT 423275656, IG 423275714. ep012_lifestyle_creep exists in episodes/ but was not scheduled as of 2026-11-14."
+ },
+ {
+  "id": "ep014_weekend_disappears",
+  "published": "2026-11-14T16:00",
+  "duration": 39.0,
+  "meta": {
+   "topic": "time",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "weekend / winter",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Your Weekend Disappears (The Holiday Paradox) #shorts"
+  },
+  "note": "Story-first narrated (ElevenLabs James, eleven_v4, 503 credits). Music: library track music/pom_upbeat_lofi_100bpm_01.mp3. Metricool post ids: YT 424532563, TT 424532595, IG 424532615. -14.3 LUFS, TP -1.4 dBFS."
+ },
+ {
+  "id": "ep015_screen_time_report",
+  "published": "2026-11-15T16:00",
+  "duration": 38.6,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "sunday screen-time report",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why You Can't Stop Checking Your Phone #shorts"
+  },
+  "youtube_title": "Why You Can't Stop Checking Your Phone #shorts",
+  "note": "Story-first narrated (ElevenLabs James, eleven_v4, 539 credits). Music: new ElevenLabs track music/pom_curious_synthpop_112bpm_03.mp3 (900 credits). Metricool post ids: YT 425798602, TT 425798641, IG 425798713. -14.3 LUFS, TP -2.7 dBFS (limiter re-encode)."
+ }
+]
