@@ -10,3 +10,4 @@ Reused by the daily tasks to save credits. Add a new track when a task generates
 | pom_playful_pizzicato_133bpm_02.mp3 | Pom | playful pizzicato strings, bouncy funk bass, light claps, cheeky whistle-like lead, confident/sassy, ~133 BPM (used in ep013) | 40 s |
 | pom_curious_synthpop_112bpm_03.mp3 | Pom | curious, slightly mischievous retro synth-pop: plucky arpeggios, bouncy bass, finger snaps, soft glockenspiel hook, ~112 BPM (used in ep015) | 40 s |
 | mystery_tv_static_synth_03.mp3 | Mystery Frames | dark retro suspense for TV/tech/signal stories: cold analog synth drone, slow pulsing arpeggio in E minor, detuned VHS-style pads, radio static, ticking hi-hat, sub-bass pulse, unresolved hit (used in film013) | 50 s |
+| pom_sunny_acoustic_118bpm_04.mp3 | Pom | sunny acoustic folk-pop: fingerpicked acoustic guitar, ukulele strums, soft hand claps, shaker, upright bass, hopeful/friendly, ~118 BPM (used in ep018) | 30 s |
