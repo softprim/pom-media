@@ -1,0 +1,1527 @@
+[
+ {
+  "id": "ep001_the_loop",
+  "published": "2026-11-02T01:00",
+  "duration": 17.0,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "Same Day, Different Date 🔁 (you're stuck in the loop) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-01T23:08",
+   "tiktok": "2026-11-02T01:30",
+   "youtube": "2026-11-02T01:00"
+  },
+  "instagram": {
+   "reach": 1582,
+   "views": 2067,
+   "likes": 71,
+   "comments": 0,
+   "shares": 2,
+   "saved": 2,
+   "retention": 57.0,
+   "reelsViewRate": 60.9,
+   "avgWatchTime": 9.693,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 1,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1172,
+   "averageViewDuration": 8,
+   "likes": 25,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep002_60_days_left",
+  "published": "2026-11-02T19:00",
+  "duration": 20.7,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "date",
+   "cta": "comment_word",
+   "season": "new year",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "60 Days Left in 2026 — Don't Wait for January 🗓️ #shorts"
+  },
+  "removed": "2026-11-02",
+  "removed_reason": "deleted by Paul: audio bug (cinematic pad vibrato) + low bitrate; exclude from medians"
+ },
+ {
+  "id": "ep003_dark_at_5pm",
+  "published": "2026-11-03T18:00",
+  "duration": 21.9,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "It's Dark at 5 PM — Don't Let Winter Steal Your Evenings #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-03T16:08",
+   "tiktok": "2026-11-03T16:18",
+   "youtube": "2026-11-03T14:03"
+  },
+  "instagram": {
+   "reach": 783,
+   "views": 893,
+   "likes": 32,
+   "comments": 0,
+   "shares": 1,
+   "saved": 2,
+   "retention": 37.8,
+   "reelsViewRate": 57.9,
+   "avgWatchTime": 8.277,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 22,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1289,
+   "averageViewDuration": 8,
+   "likes": 19,
+   "comments": 1,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep004_black_friday",
+  "published": "2026-11-04T16:00",
+  "duration": 18.8,
+  "meta": {
+   "topic": "money",
+   "format": "split",
+   "hook": "number",
+   "cta": "ab_choice",
+   "season": "black friday",
+   "experiment": "E1"
+  },
+  "platform_ids": {
+   "youtube_title": "Black Friday: You Didn't Save 50% — You Spent 50% #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-04T16:08",
+   "tiktok": "2026-11-04T16:07",
+   "youtube": "2026-11-04T14:04"
+  },
+  "instagram": {
+   "reach": 126,
+   "views": 141,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 29.3,
+   "reelsViewRate": 32.0,
+   "avgWatchTime": 5.517,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 498,
+   "averageViewDuration": 5,
+   "likes": 4,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "story001_voyager_light_day",
+  "published": "2026-11-05T18:00",
+  "duration": 52.2,
+  "meta": {
+   "topic": "science",
+   "format": "story_true",
+   "hook": "date",
+   "cta": "comment_word",
+   "season": "voyager light-day nov 18",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "On Nov 18, Voyager 1 Becomes One Light-Day Away 🛰️ #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-05T16:08",
+   "tiktok": "2026-11-05T16:04",
+   "youtube": "2026-11-05T14:03"
+  },
+  "instagram": {
+   "reach": 112,
+   "views": 131,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "retention": 14.2,
+   "reelsViewRate": 32.8,
+   "avgWatchTime": 7.417,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 52,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 206,
+   "averageViewDuration": 12,
+   "likes": 10,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep005_winter_arc_monday",
+  "published": "2026-11-06T16:00",
+  "duration": 18.9,
+  "meta": {
+   "topic": "habits",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter arc",
+   "experiment": "E1"
+  },
+  "platform_ids": {
+   "youtube_title": "Winter Arc: \"Starting Monday\" vs Starting Today #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-06T16:05",
+   "tiktok": "2026-11-06T16:05",
+   "youtube": "2026-11-06T14:04"
+  },
+  "instagram": {
+   "reach": 1036,
+   "views": 1198,
+   "likes": 7,
+   "comments": 0,
+   "shares": 1,
+   "saved": 2,
+   "retention": 31.5,
+   "reelsViewRate": 49.6,
+   "avgWatchTime": 5.952,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 18,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 802,
+   "averageViewDuration": 5,
+   "likes": 17,
+   "comments": 1,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "story002_roanoke",
+  "published": "2026-11-07T19:00",
+  "duration": 59.1,
+  "meta": {
+   "topic": "history",
+   "format": "story_unsolved",
+   "hook": "number",
+   "cta": "ab_choice",
+   "season": "none",
+   "experiment": "none"
+  },
+  "platform_ids": {
+   "youtube_title": "115 People Vanished in 1590 — Nobody Knows Why (The Lost Colony) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-07T16:06",
+   "tiktok": "2026-11-07T16:03",
+   "youtube": "2026-11-07T14:03"
+  },
+  "instagram": {
+   "reach": 8,
+   "views": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 28.2,
+   "reelsViewRate": 37.5,
+   "avgWatchTime": 16.661,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 59,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 159,
+   "averageViewDuration": 14,
+   "likes": 9,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  },
+  "note": "IG reach 8 — Instagram barely distributed it (archival photos; possibly treated as non-original)"
+ },
+ {
+  "id": "ep006_quick_scroll_45_days",
+  "published": "2026-11-07T10:00",
+  "duration": 11.4,
+  "meta": {
+   "topic": "habits",
+   "format": "quick",
+   "hook": "number",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E_quick"
+  },
+  "platform_ids": {},
+  "platforms": [
+   "tiktok"
+  ],
+  "posted_utc": {
+   "tiktok": "2026-11-07T08:02"
+  },
+  "tiktok": {
+   "duration": 11,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  }
+ },
+ {
+  "id": "ep007_singles_day_24h_rule",
+  "published": "2026-11-08T16:00",
+  "duration": 17.5,
+  "meta": {
+   "topic": "money",
+   "format": "montage",
+   "hook": "number",
+   "cta": "comment_word",
+   "season": "singles day 11.11",
+   "experiment": "E3"
+  },
+  "platform_ids": {
+   "youtube_title": "11.11 Singles' Day Sale: The 24-Hour Rule That Saves You Money #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-08T16:04",
+   "tiktok": "2026-11-08T16:03",
+   "youtube": "2026-11-08T14:03"
+  },
+  "instagram": {
+   "reach": 1119,
+   "views": 1410,
+   "likes": 5,
+   "comments": 1,
+   "shares": 2,
+   "saved": 1,
+   "retention": 48.8,
+   "reelsViewRate": 62.2,
+   "avgWatchTime": 8.536,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 802,
+   "averageViewDuration": 4,
+   "likes": 7,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep008_glow_up_boring_middle",
+  "published": "2026-11-09T16:00",
+  "duration": 17.7,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "contrarian",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E3"
+  },
+  "platform_ids": {
+   "youtube_title": "Glow-Up Day 1 vs Day 60: Nobody Posts Days 2 to 59 #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-09T16:08",
+   "tiktok": "2026-11-09T16:05",
+   "youtube": "2026-11-09T14:03"
+  },
+  "instagram": {
+   "reach": 1243,
+   "views": 1621,
+   "likes": 24,
+   "comments": 0,
+   "shares": 0,
+   "saved": 4,
+   "retention": 51.2,
+   "reelsViewRate": 67.2,
+   "avgWatchTime": 9.054,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1323,
+   "averageViewDuration": 7,
+   "likes": 17,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep009_11pm_me_time",
+  "published": "2026-11-10T16:00",
+  "duration": 19.5,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "E4"
+  },
+  "platform_ids": {
+   "youtube_title": "Revenge Bedtime Procrastination: It's 11 PM, Finally Me Time #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-10T16:05",
+   "tiktok": "2026-11-10T16:05",
+   "youtube": "2026-11-10T14:03"
+  },
+  "instagram": {
+   "reach": 1278,
+   "views": 1519,
+   "likes": 40,
+   "comments": 0,
+   "shares": 4,
+   "saved": 3,
+   "retention": 40.8,
+   "reelsViewRate": 55.3,
+   "avgWatchTime": 7.954,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 19,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1287,
+   "averageViewDuration": 7,
+   "likes": 28,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  },
+  "note": "E4 variant A (main post). Hook: \"It's 11 PM.\" + \"Finally me time.\""
+ },
+ {
+  "id": "ep009b_11pm_me_time_trial",
+  "published": "2026-11-11T10:00",
+  "duration": 19.5,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "winter",
+   "experiment": "E4"
+  },
+  "platform_ids": {},
+  "platforms": [
+   "instagram"
+  ],
+  "removed": "2026-11-11",
+  "removed_reason": "never published: Metricool ERROR 'account does not meet the trial reel follower requirement'",
+  "note": "E4 variant B: Instagram TRIAL_REEL, opener \"It's 1:40 AM. Again.\" — failed to publish."
+ },
+ {
+  "id": "ep010_smart_people_stuck",
+  "published": "2026-11-11T16:00",
+  "duration": 17.7,
+  "meta": {
+   "topic": "mindset",
+   "format": "split",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "experiment": "E2"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Smart People Stay Stuck (Planning vs Starting) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-11T16:05",
+   "tiktok": "2026-11-11T16:05",
+   "youtube": "2026-11-11T14:03"
+  },
+  "instagram": {
+   "reach": 155,
+   "views": 163,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 2,
+   "retention": 28.8,
+   "reelsViewRate": 44.2,
+   "avgWatchTime": 5.095,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 17,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "note": "E2 under-20 s data point (17.7 s). Topic from competitor paradox title (Psych2Go 'Smart People Can't Find Love' 144K).",
+  "youtube": {
+   "views": 1003,
+   "averageViewDuration": 5,
+   "likes": 17,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep011_mariah_is_back",
+  "published": "2026-11-12T16:00",
+  "duration": 21.0,
+  "meta": {
+   "topic": "habits",
+   "format": "montage",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "christmas music season",
+   "experiment": "E2"
+  },
+  "platform_ids": {
+   "youtube_title": "Mariah Is Back, Your Goals Aren't: Break the \"Next Year\" Loop #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-12T16:09",
+   "tiktok": "2026-11-12T16:08",
+   "youtube": "2026-11-12T14:04"
+  },
+  "instagram": {
+   "reach": 138,
+   "views": 155,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 1,
+   "retention": 19.3,
+   "reelsViewRate": 25.9,
+   "avgWatchTime": 4.058,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 21,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "note": "E2 longer arm (21.0 s) vs ep010 17.7 s. Dated: Christmas-music season (Mariah 5.8M Reels). Lofi 150 BPM.",
+  "youtube": {
+   "views": 434,
+   "averageViewDuration": 5,
+   "likes": 6,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep013_cant_say_no",
+  "published": "2026-11-13T16:00",
+  "duration": 42.3,
+  "meta": {
+   "topic": "relationships",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "world kindness day nov 13",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Nice People Can't Say No (People-Pleasing Explained) #shorts"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-13T16:06",
+   "tiktok": "2026-11-13T16:04",
+   "youtube": "2026-11-13T14:04"
+  },
+  "instagram": {
+   "reach": 119,
+   "views": 128,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 14.0,
+   "reelsViewRate": 52.5,
+   "avgWatchTime": 5.938,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 42,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "note": "First scheduled story-first narrated episode (ElevenLabs James, eleven_v4). Music: new ElevenLabs track music/pom_playful_pizzicato_133bpm_02.mp3. Metricool post ids: YT 423275595, TT 423275656, IG 423275714. ep012_lifestyle_creep exists in episodes/ but was not scheduled as of 2026-11-14.",
+  "youtube": {
+   "views": 905,
+   "averageViewDuration": 11,
+   "likes": 15,
+   "comments": 0,
+   "shares": 2,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep014_weekend_disappears",
+  "published": "2026-11-14T16:00",
+  "duration": 39.0,
+  "meta": {
+   "topic": "time",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "weekend / winter",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why Your Weekend Disappears (The Holiday Paradox) #shorts"
+  },
+  "note": "Story-first narrated (ElevenLabs James, eleven_v4, 503 credits). Music: library track music/pom_upbeat_lofi_100bpm_01.mp3. Metricool post ids: YT 424532563, TT 424532595, IG 424532615. -14.3 LUFS, TP -1.4 dBFS.",
+  "posted_utc": {
+   "instagram": "2026-11-14T16:10",
+   "tiktok": "2026-11-14T16:03",
+   "youtube": "2026-11-14T14:03"
+  },
+  "instagram": {
+   "reach": 133,
+   "views": 149,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 36.6,
+   "reelsViewRate": 51.9,
+   "avgWatchTime": 14.281,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 39,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 22,
+   "averageViewDuration": 11,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28",
+   "note": "only 22 views (Metricool 2026-11-28) - YouTube barely distributed it; check in YouTube Studio"
+  }
+ },
+ {
+  "id": "ep015_screen_time_report",
+  "published": "2026-11-15T16:00",
+  "duration": 38.6,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "sunday screen-time report",
+   "experiment": "E_story"
+  },
+  "platform_ids": {
+   "youtube_title": "Why You Can't Stop Checking Your Phone #shorts"
+  },
+  "youtube_title": "Why You Can't Stop Checking Your Phone #shorts",
+  "note": "Story-first narrated (ElevenLabs James, eleven_v4, 539 credits). Music: new ElevenLabs track music/pom_curious_synthpop_112bpm_03.mp3 (900 credits). Metricool post ids: YT 425798602, TT 425798641, IG 425798713. -14.3 LUFS, TP -2.7 dBFS (limiter re-encode).",
+  "posted_utc": {
+   "instagram": "2026-11-15T16:07",
+   "tiktok": "2026-11-15T16:04",
+   "youtube": "2026-11-15T14:03"
+  },
+  "instagram": {
+   "reach": 451,
+   "views": 512,
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "saved": 2,
+   "retention": 24.5,
+   "reelsViewRate": 54.9,
+   "avgWatchTime": 9.462,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 38,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 12,
+   "averageViewDuration": 13,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28",
+   "note": "only 12 views (Metricool 2026-11-28) - YouTube barely distributed it; check in YouTube Studio"
+  }
+ },
+ {
+  "id": "ep016_knowing_doing_gap",
+  "published": "2026-11-16T16:00",
+  "duration": 24.9,
+  "meta": {
+   "topic": "mindset",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6"
+  },
+  "youtube_title": "Why Knowing Your Problem Doesn't Fix It #shorts",
+  "note": "First E6 short arm: story_why compressed to 24.9 s (5 spoken lines, 61 words written, 53 heard after trimming lead-ins). ElevenLabs James, eleven_v4, 384 credits; library music music/pom_playful_pizzicato_133bpm_02.mp3. Metricool post ids: YT 428067934, TT 428067960, IG 428067968. -14.4 LUFS, TP -2.1 dBFS (limiter re-encode).",
+  "posted_utc": {
+   "instagram": "2026-11-16T16:09",
+   "tiktok": "2026-11-16T16:04",
+   "youtube": "2026-11-16T14:05"
+  },
+  "instagram": {
+   "reach": 116,
+   "views": 129,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 18.2,
+   "reelsViewRate": 45.3,
+   "avgWatchTime": 4.539,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 24,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 659,
+   "averageViewDuration": 6,
+   "likes": 5,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep017_told_everyone_goal",
+  "published": "2026-11-17T16:00",
+  "duration": 24.9,
+  "meta": {
+   "topic": "mindset",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6"
+  },
+  "youtube_title": "Why Telling People Your Goal Kills It #shorts",
+  "note": "Second E6 short arm: story_why 24.9 s (5 spoken lines, 50 words, raw takes - no tightening needed). ElevenLabs James, eleven_v4, 282 credits; library music music/pom_upbeat_lofi_100bpm_01.mp3. Metricool post ids: YT 428960248, TT 428960270, IG 428960296. -14.2 LUFS, TP -1.3 dBFS straight from the engine.",
+  "posted_utc": {
+   "instagram": "2026-11-17T16:11",
+   "tiktok": "2026-11-17T16:06",
+   "youtube": "2026-11-17T14:04"
+  },
+  "instagram": {
+   "reach": 112,
+   "views": 129,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 39.1,
+   "reelsViewRate": 63.0,
+   "avgWatchTime": 9.724,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 24,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1242,
+   "averageViewDuration": 10,
+   "likes": 18,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep018_cant_start_big_task",
+  "published": "2026-11-18T16:00",
+  "duration": 23.7,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6"
+  },
+  "youtube_title": "Why You Can't Start the Big Task #shorts",
+  "note": "Third E6 short arm: story_why 23.7 s (5 spoken lines, 51 words; pauses tightened + atempo 1.06). ElevenLabs James, eleven_v4, 306 credits; new Monday music track music/pom_sunny_acoustic_118bpm_04.mp3 (900 credits). Scheduled on a Wednesday (playbook: Pom's Loop day) because the stored task prompt asks for a narrated story episode. Metricool post ids: YT 430188863, TT 430188898, IG 430188934. -14.1 LUFS, TP -1.3 dBFS straight from the engine.",
+  "posted_utc": {
+   "instagram": "2026-11-18T16:03",
+   "tiktok": "2026-11-18T16:06",
+   "youtube": "2026-11-18T14:03"
+  },
+  "instagram": {
+   "reach": 112,
+   "views": 129,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 21.1,
+   "reelsViewRate": 38.4,
+   "avgWatchTime": 5.01,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 23,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 149,
+   "averageViewDuration": 6,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep019_gym_bag_if_then",
+  "published": "2026-11-19T16:00",
+  "duration": 23.1,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6"
+  },
+  "youtube_title": "Why Your Gym Bag Never Leaves the Hallway #shorts",
+  "note": "Fourth E6 short arm: story_why 23.1 s (5 spoken lines, 55 words; pauses tightened to 0.24 s + atempo 1.04). ElevenLabs James, eleven_v4, 284 credits; library music music/pom_curious_synthpop_112bpm_03.mp3. Scheduled on a Thursday. Metricool post ids: YT 431564227, TT 431564259, IG 431564313. -14.3 LUFS, TP -1.3 dBFS straight from the engine.",
+  "posted_utc": {
+   "instagram": "2026-11-19T16:04",
+   "tiktok": "2026-11-19T16:07"
+  },
+  "instagram": {
+   "reach": 159,
+   "views": 219,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 40.6,
+   "reelsViewRate": 60.4,
+   "avgWatchTime": 9.371,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 23,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 691,
+   "averageViewDuration": 6,
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep020_missed_day_streak",
+  "published": "2026-11-20T16:00",
+  "duration": 23.1,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6"
+  },
+  "youtube_title": "Why One Missed Day Ends Your Whole Streak #shorts",
+  "note": "Fifth E6 short arm: story_why 23.1 s (5 spoken lines, 51 words; pauses tightened to 0.24 s + atempo 1.04). ElevenLabs James, eleven_v4, 285 credits; library music music/pom_playful_pizzicato_133bpm_02.mp3. Scheduled on a Friday (playbook story_why day). Metricool post ids: YT 432944902, TT 432944941, IG 432944964. -14.5 LUFS, TP -1.4 dBFS (engine gave -14.1 / -1.0; -0.4 dB trim in the 8 Mbps re-encode).",
+  "posted_utc": {
+   "instagram": "2026-11-20T16:05",
+   "tiktok": "2026-11-20T16:09"
+  },
+  "instagram": {
+   "reach": 179,
+   "views": 212,
+   "likes": 3,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 35.0,
+   "reelsViewRate": 57.4,
+   "avgWatchTime": 8.087,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "tiktok": {
+   "duration": 23,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 1166,
+   "averageViewDuration": 8,
+   "likes": 11,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep021_unfinished_task_bed",
+  "published": "2026-11-21T16:00",
+  "duration": 22.5,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why Unfinished Tasks Keep You Awake at Night #shorts",
+  "note": "Sixth E6 short arm: story_why 22.5 s (7 spoken lines, 53 words). First episode with the free local Kokoro voice (am_michael, speed 1.05) - no ElevenLabs. Library music music/pom_upbeat_lofi_100bpm_01.mp3. Scheduled on a Saturday. Metricool post ids: YT 434329085, TT 434329149, IG 434329175. -14.5 LUFS, TP -1.1 dBFS (engine gave -14.0 / -0.8; -0.5 dB trim in the 8 Mbps re-encode).",
+  "instagram": {
+   "reach": 97,
+   "views": 116,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 22.8,
+   "reelsViewRate": 48.5,
+   "avgWatchTime": 5.123,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-21T16:06"
+  },
+  "tiktok": {
+   "duration": 22,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 3,
+   "averageViewDuration": 1,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28",
+   "note": "only 3 views (Metricool 2026-11-28) - YouTube barely distributed it; check in YouTube Studio"
+  }
+ },
+ {
+  "id": "ep022_one_quick_check",
+  "published": "2026-11-22T16:00",
+  "duration": 21.4,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "story",
+   "cta": "ab_choice",
+   "season": "none",
+   "series": "none",
+   "experiment": "E6",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why \"One Quick Check\" Wrecks Your Focus #shorts",
+  "note": "Seventh E6 short arm: story_why 21.4 s (7 spoken lines, 56 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_sunny_acoustic_118bpm_04.mp3 - no paid tools. Scheduled on a Sunday (first free day). Metricool post ids: YT 435675532, TT 435675548, IG 435675565. -13.8 LUFS, peak -1.5 dBFS.",
+  "instagram": {
+   "reach": 106,
+   "views": 129,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 27.0,
+   "reelsViewRate": 55.1,
+   "avgWatchTime": 5.778,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-22T16:06"
+  },
+  "tiktok": {
+   "duration": 21,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 477,
+   "averageViewDuration": 6,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep023_snooze_sleep_inertia",
+  "published": "2026-11-23T16:00",
+  "duration": 24.1,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why You Hit Snooze 4 Times (It's Not Laziness) #shorts",
+  "note": "First E7 episode made on purpose (viewer-moment opener \"It's 7:00 AM. Snooze #4.\", one-word CTA SNOOZE): story_why 24.1 s (7 spoken lines, 59 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_curious_synthpop_112bpm_03.mp3 - no paid tools. Scheduled on a Monday (first free day). Metricool post ids: YT 436742241, TT 436742265, IG 436742280. -14.0 LUFS, peak -2.1 dBFS (engine gave -13.9 / +1.3; 8 Mbps re-encode + limiter).",
+  "instagram": {
+   "reach": 124,
+   "views": 150,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 32.5,
+   "reelsViewRate": 51.2,
+   "avgWatchTime": 7.841,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-23T16:04"
+  },
+  "tiktok": {
+   "duration": 24,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 888,
+   "averageViewDuration": 7,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep024_2am_replay_spotlight",
+  "published": "2026-11-24T16:00",
+  "duration": 22.0,
+  "meta": {
+   "topic": "mindset",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why You Replay Something You Said in 2019 at 2 AM #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's 2 AM.\" + \"Remember 2019?\", one-word CTA 2019): story_why 22.0 s (7 spoken lines, 56 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_playful_pizzicato_133bpm_02.mp3 - no paid tools. Scheduled on a Tuesday (first free day). Metricool post ids: YT 437632165, TT 437632174, IG 437632196. -14.0 LUFS, peak -2.0 dBFS (engine gave -13.9 / -0.2; 8 Mbps re-encode + limiter).",
+  "instagram": {
+   "reach": 110,
+   "views": 118,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 24.6,
+   "reelsViewRate": 48.6,
+   "avgWatchTime": 5.416,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-24T16:08"
+  },
+  "tiktok": {
+   "duration": 21,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 869,
+   "averageViewDuration": 9,
+   "likes": 8,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28"
+  }
+ },
+ {
+  "id": "ep025_27_tabs_choice_overload",
+  "published": "2026-11-25T16:00",
+  "duration": 22.8,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "black friday week",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why 27 Tabs End in 0 Decisions (Choice Overload) #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's 11 PM.\" + \"27 tabs open.\", one-word CTA 3 TABS): story_why 22.8 s (7 spoken lines, 48 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_upbeat_lofi_100bpm_01.mp3 - no paid tools. Scheduled on a Wednesday (first free day). Metricool post ids: YT 438916169, TT 438916209, IG 438916233. -13.9 LUFS, peak -1.4 dBFS straight from the engine (8 Mbps video re-encode, audio copied).",
+  "instagram": {
+   "reach": 112,
+   "views": 122,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 19.1,
+   "reelsViewRate": 42.5,
+   "avgWatchTime": 4.355,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-25T16:05"
+  },
+  "tiktok": {
+   "duration": 22,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube": {
+   "views": 66,
+   "averageViewDuration": 4,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "pulled": "2026-11-28",
+   "note": "only 66 views (Metricool 2026-11-28) - YouTube barely distributed it; check in YouTube Studio"
+  }
+ },
+ {
+  "id": "ep026_leave_late_planning_fallacy",
+  "published": "2026-11-26T16:00",
+  "duration": 20.4,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why You Check the Time and Still Leave Late #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's 8:10 AM.\" + \"You had to leave at 8:00.\", one-word CTA LATE): story_why 20.4 s (7 spoken lines, 56 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_sunny_acoustic_118bpm_04.mp3 - no paid tools. Scheduled on a Thursday (first free day). Metricool post ids: YT 440416425, TT 440416459, IG 440416502. -13.8 LUFS, peak -2.8 dBFS (engine gave -13.7 / +0.6; 8 Mbps re-encode + limiter).",
+  "instagram": {
+   "reach": 143,
+   "views": 160,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 39.4,
+   "reelsViewRate": 59.9,
+   "avgWatchTime": 8.038,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-26T16:07"
+  },
+  "tiktok": {
+   "duration": 20,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube_note": "not yet in Metricool videos published in range on 2026-11-28"
+ },
+ {
+  "id": "ep027_timer_scarcity",
+  "published": "2026-11-27T16:00",
+  "duration": 20.9,
+  "meta": {
+   "topic": "money",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "black friday",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why the Countdown Timer Makes You Buy (Scarcity) #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's 11:58 PM.\" + \"Deal ends at midnight.\", one-word CTA 9 AM): story_why 20.9 s (7 spoken lines, 56 words). The one money slot of Black Friday week (habit framing). Free local Kokoro voice (am_michael, 1.05), library music music/pom_curious_synthpop_112bpm_03.mp3 - no paid tools. Scheduled on Black Friday (Fri Nov 27, first free day). Metricool post ids: YT 441854327, TT 441854355, IG 441854391. -13.8 LUFS, peak -1.4 dBFS straight from the engine (8 Mbps video re-encode, audio copied).",
+  "instagram": {
+   "reach": 121,
+   "views": 142,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "saved": 0,
+   "retention": 32.0,
+   "reelsViewRate": 52.9,
+   "avgWatchTime": 6.693,
+   "retention_source": "derived avgWatchTime/duration (Metricool IGRE27 returned null)",
+   "pulled": "2026-11-28"
+  },
+  "posted_utc": {
+   "instagram": "2026-11-27T16:07"
+  },
+  "tiktok": {
+   "duration": 20,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "reach": null,
+   "fullVideoWatchedRate": null,
+   "avgTimeWatched": null,
+   "forYou": null,
+   "pulled": "2026-11-28",
+   "note": "Metricool TKPO07 views = 0 (2026-11-28). Earlier pulls stored TKPO06 duration as views by mistake."
+  },
+  "youtube_note": "not yet in Metricool videos published in range on 2026-11-28"
+ },
+ {
+  "id": "ep028_6pm_not_lazy",
+  "published": "2026-11-28T16:00",
+  "duration": 22.6,
+  "meta": {
+   "topic": "habits",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "none",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "You're Not Lazy at 6 PM. Your Brain Is Tired #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's 6 PM.\" + \"Planned: 3. Done: 0.\", one-word CTA MORNING): story_why 22.6 s (7 spoken lines, 55 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_playful_pizzicato_133bpm_02.mp3 - no paid tools. Scheduled on a Saturday (first free day). Metricool post ids: YT 443243905, TT 443243950, IG 443244002. -14.0 LUFS, peak -2.5 dBFS (engine gave -13.9 / +0.7; 8 Mbps re-encode + limiter).",
+  "youtube_note": "published 2026-11-28, no data yet"
+ },
+ {
+  "id": "ep029_sunday_4pm_dread",
+  "published": "2026-11-29T16:00",
+  "duration": 24.9,
+  "meta": {
+   "topic": "mindset",
+   "format": "story_why",
+   "hook": "pain",
+   "cta": "comment_word",
+   "season": "sunday",
+   "series": "none",
+   "experiment": "E7",
+   "voice": "kokoro:am_michael"
+  },
+  "youtube_title": "Why Sunday Dread Hits at 4 PM (Sunday Scaries) #shorts",
+  "note": "E7 episode (viewer-moment opener \"It's Sunday, 4 PM.\" + \"Your stomach just dropped.\", one-word CTA 4 PM): story_why 24.9 s (7 spoken lines, 63 words). Free local Kokoro voice (am_michael, 1.05), library music music/pom_upbeat_lofi_100bpm_01.mp3 - no paid tools. Scheduled on a Sunday (first free day). Metricool post ids: YT 444481430, TT 444481470, IG 444481503. -13.9 LUFS, peak -1.4 dBFS straight from the engine (8 Mbps video re-encode, audio copied)."
+ }
+]
